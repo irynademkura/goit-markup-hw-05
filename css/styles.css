@@ -771,5 +771,7 @@ img {
 }
 
 .close-button-icon {
+ width: 8;
+  height: 8;
   fill: currentColor;
 }
